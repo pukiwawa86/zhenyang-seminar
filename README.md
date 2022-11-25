@@ -7,6 +7,7 @@ https://elmas3.github.io/mao-seminar/
 professor
 wakaba
 elmas
+lq
 
 # 目录
 ```
